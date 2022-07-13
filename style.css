@@ -1,0 +1,27 @@
+body{
+    background: linear-gradient(to left, red, yellow,green);
+}
+h1
+{
+    text-align: center;
+    color:rgb(58, 157, 15);
+}
+.one,.two,.three
+{
+    text-align: center;
+}
+.three,.two{
+    margin-top: 20px;
+}
+#btn{
+    color:black;
+    border:1px solid red;
+    padding:2px;
+    
+}
+#texttwo,#inputuser{
+    border:2px solid red;
+    padding:2px;
+    color:blueviolet;
+    background-color: aqua;
+}
